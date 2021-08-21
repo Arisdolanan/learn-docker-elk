@@ -1,0 +1,12 @@
+# Example pipelines.yml
+# - pipeline.id: first-logstash
+#   path.config: "/usr/share/logstash/pipeline/first-logstash.conf"
+#   pipeline.workers: 2
+#   queue.type: persisted
+
+- pipeline.id: first-logstash
+  path.config: "/usr/share/logstash/pipeline/first-logstash.conf"
+- pipeline.id: second-logstash
+  path.config: "/usr/share/logstash/pipeline/second-logstash.conf"
+- pipeline.id: third-logstash
+  path.config: "/usr/share/logstash/pipeline/third-logstash.conf"
