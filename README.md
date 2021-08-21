@@ -18,12 +18,11 @@ docker-compose up
 file logstash beserta config di pipeline akan running secara otomatis di docker
 
 ## References
-https://www.elastic.co/blog/elasticsearch-docker-plugin-management
-https://www.elastic.co/guide/en/logstash/current/docker-config.html
-https://www.elastic.co/guide/en/logstash/current/working-with-plugins.html
-https://github.com/deviantony/docker-elk
-https://github.com/jettro/docker-elk-blog
-
+* https://www.elastic.co/blog/elasticsearch-docker-plugin-management
+* https://www.elastic.co/guide/en/logstash/current/docker-config.html
+* https://www.elastic.co/guide/en/logstash/current/working-with-plugins.html
+* https://github.com/deviantony/docker-elk
+* https://github.com/jettro/docker-elk-blog
 
 mungkin akan update lagi terkait hal lain. terima kasih :p
 
